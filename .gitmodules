@@ -1,0 +1,3 @@
+[submodule "intro/hello_cargo"]
+	path = intro/hello_cargo
+	url = git@github.com:xmawja/hello_cargo.git
